@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "deviluserbot"
+          find: "lucifeermorningstar"
 
-          replace: "ultronuserbot"
+          replace: "MickeyxD"
 
       - name: Create Pull Request
 
