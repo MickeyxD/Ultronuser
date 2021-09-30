@@ -1,5 +1,5 @@
 #By Devil
-#Credit to @lucifeermorningstar.
+#Credit to @MickeyxD.
 #Copyright to Devil UserBot
 #
 """ Userbot module for managing events.

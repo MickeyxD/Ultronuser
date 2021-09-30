@@ -1,6 +1,6 @@
 {
   "name": "Dèvílẞø†",
-  "description": "The best userbot made by @lucifeermorningstar. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @DevilUserBot ",
+  "description": "The best userbot made by @MickeyxD. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @DevilUserBot ",
   "logo": " https://telegra.ph/file/fbe697363d312fec4b671.jpg ",
     "keywords": [
     "telegram",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/lucifeermorningstar/Devil-User-Bot",
-  "website": "https://github.com/lucifeermorningstar/Devil-User-Bot",
+  "repository": "https://github.com/MickeyxD/Devil-User-Bot",
+  "website": "https://github.com/MickeyxD/Devil-User-Bot",
   "success_url": "https://t.me/DevilUserBot",
   "env": {
     "ENV": {

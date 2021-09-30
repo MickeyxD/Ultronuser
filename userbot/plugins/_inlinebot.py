@@ -84,7 +84,7 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
                     ],
                     [
                         custom.Button.url(
-                            "✨ REPO ✨", "https://github.com/lucifeermorningstar/Devil-User-Bot"),
+                            "✨ REPO ✨", "https://github.com/MickeyxD/Devil-User-Bot"),
                         custom.Button.url
                     (
                             "🔰 TUTORIAL 🔰", "https://t.me/DevilUserBot"

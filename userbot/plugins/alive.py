@@ -35,9 +35,9 @@ pm_caption += f"sᴜᴅᴏ            : `{sudou}`\n"
 
 pm_caption += "ꇙ꒤ꉣꉣꄲꋪ꓄ ꍌꋪꄲ꒤ꉣ  : [ᴊᴏɪɴ](https://t.me/ultronuserbot)\n"
 
-pm_caption += "𝙲𝚛𝚎𝚊𝚝𝚘𝚛    : [Click Here](https://t.me/lucifeermorningstar)\n\n"
+pm_caption += "𝙲𝚛𝚎𝚊𝚝𝚘𝚛    : [Click Here](https://t.me/MickeyxD)\n\n"
 
-pm_caption += "    [✨REPO✨](https://github.com/lucifeermorningstar/ultronuserbot) 🔹 [📜License📜](https://github.com/lucifeermorningstar/ultronuserbot/blob/master/LICENSE)"
+pm_caption += "    [✨REPO✨](https://github.com/MickeyxD/ultronuserbot) 🔹 [📜License📜](https://github.com/MickeyxD/ultronuserbot/blob/master/LICENSE)"
 
 
 
