@@ -55,7 +55,7 @@ async def install(event):
                 shortname = path1.stem
                 load_module(shortname.replace(".py", ""))
                 await event.edit(
-                    "Plugin successfully installed\n @deviluserbot `{}`".format(
+                    "Plugin successfully installed\n @ultronuserbot `{}`".format(
                         os.path.basename(downloaded_file_name)
                     )
                 )

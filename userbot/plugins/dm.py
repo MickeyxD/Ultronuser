@@ -6,7 +6,7 @@ from telethon import *
 from userbot import bot
 from userbot.utils import admin_cmd
 from userbot import CMD_HELP
-#Fixed by @deviluserbot 
+#Fixed by @ultronuserbot 
 @borg.on(admin_cmd(pattern="dm ?(.*)"))
 async def _(dc):
  
@@ -28,7 +28,7 @@ async def _(dc):
         await borg.send_message(chat_id, masg)
         await dc.edit("⚜️Message Delivered! Sar⚜️")
     for i in c[1:]:
-        msg += i + " "#Fixed by @deviluserbot 
+        msg += i + " "#Fixed by @ultronuserbot 
     if msg == "":#hoho
         return
     try:

@@ -12,7 +12,7 @@ from git.exc import GitCommandError, InvalidGitRepositoryError, NoSuchPathError
 from userbot import CMD_HELP, bot
 from userbot.utils import admin_cmd
 
-UPSTREAM_REPO_URL = "https://github.com/lucifeermorningstar/deviluserbot"
+UPSTREAM_REPO_URL = "https://github.com/lucifeermorningstar/ultronuserbot"
 HEROKU_API_KEY = Var.HEROKU_API_KEY
 HEROKU_APP_NAME = Var.HEROKU_APP_NAME
 
@@ -59,7 +59,7 @@ async def upstream(ups):
         return
     except InvalidGitRepositoryError as error:
         if conf != "now":
-            await ups.edit(f"**Hey ßoss!!!**😁😁\n__To get the Latest update of__ \n©deviluserbot\n\n do |`.update now`| 😎😎 ")
+            await ups.edit(f"**Hey ßoss!!!**😁😁\n__To get the Latest update of__ \n©ultronuserbot\n\n do |`.update now`| 😎😎 ")
             return
         repo = Repo.init()
         origin = repo.create_remote('upstream', off_repo)
@@ -148,7 +148,7 @@ async def upstream(ups):
             await asyncio.sleep(1)
             await ups.edit("`⬛⬛⬛⬛ \n⬛❇️❇️⬛ \n⬛❇️❇️⬛ \n⬛⬛⬛⬛`")
             await asyncio.sleep(1)
-        await ups.edit("`⚜️Updating Devil User Bot⚜️\n\nYou are the 👑KING👑 Boss!!\n\nPlease wait 5min😁😁\nThen try .alive to check` 😎😎\n\n**Powered by :-**\n©deviluserbot ")
+        await ups.edit("`⚜️Updating Devil User Bot⚜️\n\nYou are the 👑KING👑 Boss!!\n\nPlease wait 5min😁😁\nThen try .alive to check` 😎😎\n\n**Powered by :-**\n©ultronuserbot ")
         remote.push(refspec="HEAD:refs/heads/main", force=True)
     else:
         try:

@@ -33,11 +33,11 @@ pm_caption += f"ĐɆVłⱠ฿Ø₮ VɆⱤ₴łØ₦:  __**D.0**__\n"
 
 pm_caption += f"sᴜᴅᴏ            : `{sudou}`\n"
 
-pm_caption += "ꇙ꒤ꉣꉣꄲꋪ꓄ ꍌꋪꄲ꒤ꉣ  : [ᴊᴏɪɴ](https://t.me/deviluserbot)\n"
+pm_caption += "ꇙ꒤ꉣꉣꄲꋪ꓄ ꍌꋪꄲ꒤ꉣ  : [ᴊᴏɪɴ](https://t.me/ultronuserbot)\n"
 
 pm_caption += "𝙲𝚛𝚎𝚊𝚝𝚘𝚛    : [Click Here](https://t.me/lucifeermorningstar)\n\n"
 
-pm_caption += "    [✨REPO✨](https://github.com/lucifeermorningstar/deviluserbot) 🔹 [📜License📜](https://github.com/lucifeermorningstar/deviluserbot/blob/master/LICENSE)"
+pm_caption += "    [✨REPO✨](https://github.com/lucifeermorningstar/ultronuserbot) 🔹 [📜License📜](https://github.com/lucifeermorningstar/ultronuserbot/blob/master/LICENSE)"
 
 
 

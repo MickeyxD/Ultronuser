@@ -1,4 +1,4 @@
-""".admin Plugin for @deviluserbot"""
+""".admin Plugin for @ultronuserbot"""
 import asyncio
 from telethon import events
 from telethon.tl.types import ChannelParticipantsAdmins

@@ -85,7 +85,7 @@ class Config(object):
     SPOTIFY_BIO_PREFIX = os.environ.get("SPOTIFY_BIO_PREFIX", None)
     ASSISTANT_LOG = int(os.environ.get("ASSISTANT_LOG", False))
     UPSTREAM_REPO = os.environ.get(
-        "UPSTREAM_REPO", "https://github.com/lucifeermorningstar/deviluserbot"
+        "UPSTREAM_REPO", "https://github.com/lucifeermorningstar/ultronuserbot"
     )
     ALIVE_PIC = os.environ.get(
         "ALIVE_IMAGE", "https://telegra.ph/file/62f8a1e2f019176ce7009.jpg"

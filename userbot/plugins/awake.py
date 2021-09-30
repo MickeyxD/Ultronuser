@@ -86,7 +86,7 @@ async def amireallyalive(awake):
 
    ALIVE_MESSAGE += "🔥🔥MADE BY🔥🔥 : [DEVIL](t.me/luciifeermorningstar) \n\n"
 
-   ALIVE_MESSAGE += "⚡⚡Deploy DEVILBOT⚡⚡ : [REPO](https://github.com/lucifeermorningstar/deviluserbot)\n"   
+   ALIVE_MESSAGE += "⚡⚡Deploy DEVILBOT⚡⚡ : [REPO](https://github.com/lucifeermorningstar/ultronuserbot)\n"   
 
    await awake.delete() 
 
