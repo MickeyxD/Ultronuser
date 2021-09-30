@@ -2,7 +2,7 @@
 # For TeleBot
 # Kangers keep credits
 # By @Akash_AM1 and @xditya
-# Ported here by Devil. 
+# Ported here by Ultron. 
 
 import datetime
 import asyncio

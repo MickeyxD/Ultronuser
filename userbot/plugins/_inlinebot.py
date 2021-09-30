@@ -54,12 +54,12 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
         builder = event.builder
         result = None
         query = event.text
-        if event.query.user_id == bot.uid and query == "@DevilUserBot":
+        if event.query.user_id == bot.uid and query == "@UltronUserBot":
             rev_text = query[::-1]
             veriler = button(0, sorted(CMD_HELP))
             result = await builder.article(
                 f"Hey! Only use .help please",
-                text=f"**Running DevilUserBot**\n\n__Number of plugins installed__ :`{len(CMD_HELP)}`\n**page:** 1/{veriler[0]}",
+                text=f"**Running UltronUserBot**\n\n__Number of plugins installed__ :`{len(CMD_HELP)}`\n**page:** 1/{veriler[0]}",
                 buttons=veriler[1],
                 link_preview=False,
             )
@@ -73,21 +73,21 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
             )
         else:
             result = builder.article(
-                "@DevilUserBot",
-                text="""**Hey! This is [Dévílẞø†.](https://t.me/DevilUserBot) \nYou can know more about me from the links given below 👇**""",
+                "@UltronUserBot",
+                text="""**Hey! This is [Dévílẞø†.](https://t.me/UltronUserBot) \nYou can know more about me from the links given below 👇**""",
                 buttons=[
                     [
-                        custom.Button.url("🔥 CHANNEL 🔥", "https://t.me/DevilUserBot"),
+                        custom.Button.url("🔥 CHANNEL 🔥", "https://t.me/UltronUserBot"),
                         custom.Button.url(
-                            "⚡ GROUP ⚡", "https://t.me/DevilUserBot"
+                            "⚡ GROUP ⚡", "https://t.me/UltronUserBot"
                         ),
                     ],
                     [
                         custom.Button.url(
-                            "✨ REPO ✨", "https://github.com/MickeyxD/Devil-User-Bot"),
+                            "✨ REPO ✨", "https://github.com/MickeyxD/Ultron-User-Bot"),
                         custom.Button.url
                     (
-                            "🔰 TUTORIAL 🔰", "https://t.me/DevilUserBot"
+                            "🔰 TUTORIAL 🔰", "https://t.me/UltronUserBot"
                     )
                     ],
                 ],
@@ -106,7 +106,7 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
         page = int(event.data_match.group(1).decode("UTF-8"))
         veriler = button(page, CMD_HELP)
         await event.edit(
-            f"**Legenday AF** [Dèvílẞøt](https://t.me/DevilUserBot) __Working...__\n\n**Number of modules installed :** `{len(CMD_HELP)}`\n**page:** {page + 1}/{veriler[0]}",
+            f"**Legenday AF** [Dèvílẞøt](https://t.me/UltronUserBot) __Working...__\n\n**Number of modules installed :** `{len(CMD_HELP)}`\n**page:** {page + 1}/{veriler[0]}",
             buttons=veriler[1],
             link_preview=False,
         )

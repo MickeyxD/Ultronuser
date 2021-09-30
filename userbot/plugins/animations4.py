@@ -234,7 +234,7 @@ async def sprinkle(event):
 async def getwell(event):
     if event.fwd_from:
         return
-    await edit_or_reply(event, "I am Your Father Devil Mere se panga mat lena teri gand toh fategi he sathe me pura khadan chodega tera") 
+    await edit_or_reply(event, "I am Your Father Ultron Mere se panga mat lena teri gand toh fategi he sathe me pura khadan chodega tera") 
 
 @bot.on(admin_cmd(pattern=r"f", outgoing=True))
 @bot.on(sudo_cmd(pattern=r"f", allow_sudo=True))

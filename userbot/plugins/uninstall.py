@@ -1,4 +1,4 @@
-#Added here By Devil. 
+#Added here By Ultron. 
 
 from telethon import events
 from userbot.events import remove_plugin, load_module

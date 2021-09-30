@@ -14,7 +14,7 @@ async def reply_id(event):
     return reply_to_id
 
 
-DEFAULTUSER = ALIVE_NAME or "Devil User"
+DEFAULTUSER = ALIVE_NAME or "Ultron User"
 HELL_IMG = Config.ALIVE_PIC
 CUSTOM_ALIVE_TEXT = Config.ALIVE_MSG or "ʟɛɢɛռɖaʀʏ_ᴀғ_𝙳𝚎𝚟𝚒𝚕𝚄𝚜𝚎𝚛𝙱𝚘𝚝"
 

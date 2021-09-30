@@ -1,4 +1,4 @@
-"""Fun pligon...for DevilUserbot
+"""Fun pligon...for UltronUserbot
 \nCode by @Sensei_nex
 type .ga and .gaa to see the fun.
 """

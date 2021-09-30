@@ -40,7 +40,7 @@ async def get_full_user(event):
         try:
             user_obj = await event.client.get_entity(user)
         except Exception as err:
-            return await event.edit("Error... Please report at @Deviluserbot", str(err))           
+            return await event.edit("Error... Please report at @Ultronuserbot", str(err))           
     return user_obj, extra
 
 global hawk,moth

@@ -1,5 +1,5 @@
 """Evaluate Python Code inside Telegram
-#Ported here By Devil @MickeyxD
+#Ported here By Ultron @MickeyxD
 #Credit to LegendX22
 
 Syntax: .eval PythonCode"""

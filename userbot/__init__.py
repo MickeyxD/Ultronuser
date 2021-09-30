@@ -9,7 +9,7 @@ from userbot.uniborgConfig import Config
 from var import Var
 
 StartTime = time.time()
-DevilBotversion = "2.0" 
+UltronBotversion = "2.0" 
 
 os.system("pip install --upgrade pip")
 if Var.STRING_SESSION:
@@ -31,7 +31,7 @@ LOAD_PLUG = {}
 # PaperPlaneExtended Support Vars
 ENV = os.environ.get("ENV", False)
 
-Devil_ID = ["1203058863"]
+Ultron_ID = ["1203058863"]
 
 """ PPE initialization. """
 

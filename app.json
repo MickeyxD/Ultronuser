@@ -1,6 +1,6 @@
 {
   "name": "Dèvílẞø†",
-  "description": "The best userbot made by @MickeyxD. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @DevilUserBot ",
+  "description": "The best userbot made by @MickeyxD. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @UltronUserBot ",
   "logo": " https://telegra.ph/file/fbe697363d312fec4b671.jpg ",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/MickeyxD/Devil-User-Bot",
-  "website": "https://github.com/MickeyxD/Devil-User-Bot",
-  "success_url": "https://t.me/DevilUserBot",
+  "repository": "https://github.com/MickeyxD/Ultron-User-Bot",
+  "website": "https://github.com/MickeyxD/Ultron-User-Bot",
+  "success_url": "https://t.me/UltronUserBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -23,7 +23,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is DevilUserBot User",
+      "description": "Fill your Full name. By default it is UltronUserBot User",
       "value": "",
       "required": false
     },
@@ -97,7 +97,7 @@
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running  https://repl.it/@lucifeermorning/DevilUserBot#main.py ",
+      "description": "Get this value by running  https://repl.it/@lucifeermorning/UltronUserBot#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {

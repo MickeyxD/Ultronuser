@@ -6,7 +6,7 @@ from telethon.events import NewMessage
 from telethon.tl.custom import Dialog
 from telethon.tl.types import Channel, Chat, User
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "DevilUserBot User"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "UltronUserBot User"
 
 PM_IMG = Config.ALIVE_PIC
 

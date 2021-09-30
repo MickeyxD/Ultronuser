@@ -1,4 +1,4 @@
-FROM Devil/DevilBot:latest
+FROM Ultron/UltronBot:latest
 
 #clonning repo 
 RUN git clone https://github.com/MickeyxD/ultronuserbot.git/root/userbot
