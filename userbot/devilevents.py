@@ -1,6 +1,6 @@
-#By Ultron
+#By MICKEY
 #Credit to @MickeyxD.
-#Copyright to Ultron UserBot
+#Copyright to UltronUserBot
 #
 """ Userbot module for managing events.
  One of the main components of the userbot. """
