@@ -19,6 +19,6 @@ DEPLOYING TO HEROKU
 <a href="https://t.me/ultronuserbot"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-[![ULTRONBOT logo](https://telegra.ph/file/44a89dae5c134fdcd8203.jpg)](https://t.me/UltronBot_Support)
+[![ULTRONBOT logo](https://telegra.ph/file/44a89dae5c134fdcd8203.jpg)](https://t.me/UltronUserBot)
 
 

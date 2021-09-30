@@ -1,6 +1,6 @@
 {
   "name": "Ul†røñẞø†",
-  "description": "The best userbot made by @MickeyxD. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @UltronBot_Support ",
+  "description": "The best userbot made by @MickeyxD. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @UltronUserBot ",
   "logo": " https://telegra.ph/file/fbe697363d312fec4b671.jpg ",
     "keywords": [
     "telegram",
@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/MickeyxD/UltronUserBot",
   "website": "https://github.com/MickeyxD/UltronUserBot",
-  "success_url": "https://t.me/UltronBot_Support",
+  "success_url": "https://t.me/UltronUserBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
