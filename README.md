@@ -6,7 +6,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/lucifeermorningstar/deviluserbot)
 
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/lucifeermorningstar)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/M1CKEY_0P)
 
 
 # Devil-User-Bot
@@ -19,14 +19,6 @@ DEPLOYING TO HEROKU
 <a href="https://t.me/deviluserbot"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-[![DEVILBot logo](https://telegra.ph/file/b907cf4d03ef1298fe623.jpg)](https://t.me/deviluserbot)
-# 𝐂𝐫𝐞𝐝𝐢𝐭 𝐆𝐨𝐞𝐬 𝐓𝐨
-1. Programming Error (Error Fixer) 
-2. Kraken (Hellbot owner) 
-3. LegendX (TEAMLEGEND) 
+[![ULTRONBOT logo](https://telegra.ph/file/44a89dae5c134fdcd8203.jpg)](https://t.me/UltronBot_Support)
 
-# 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨
-     
-    𝐇𝐞𝐥𝐥 𝐁𝐨𝐭 𝐓𝐞𝐚𝐦.... 
-    LEGENDX (TEAMLEGEND)
 
