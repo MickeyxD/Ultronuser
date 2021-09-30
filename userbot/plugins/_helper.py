@@ -49,7 +49,7 @@ async def info(event):
                 .get("key")
             )
             url = f"https://nekobin.com/{key}"
-            reply_text = f"All commands of the Dévílẞø† are [here]({url})"
+            reply_text = f"All commands of the Ul†røñẞø† are [here]({url})"
             await event.reply(reply_text, link_preview=False)
             return
         await event.reply(
