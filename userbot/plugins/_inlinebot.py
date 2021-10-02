@@ -74,17 +74,17 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
         else:
             result = builder.article(
                 "@UltronUserBot",
-                text="""**Hey! This is [Dévílẞø†.](https://t.me/UltronUserBot) \nYou can know more about me from the links given below 👇**""",
+                text="""**Hey! This is [Ul†røñẞø†.](https://t.me/UltronBot_Support) \nYou can know more about me from the links given below 👇**""",
                 buttons=[
                     [
-                        custom.Button.url("🔥 CHANNEL 🔥", "https://t.me/UltronUserBot"),
+                        custom.Button.url("🔥 CHANNEL 🔥", "https://t.me/Its_UltronBot"),
                         custom.Button.url(
-                            "⚡ GROUP ⚡", "https://t.me/UltronUserBot"
+                            "⚡ GROUP ⚡", "https://t.me/UltronBot_Support"
                         ),
                     ],
                     [
                         custom.Button.url(
-                            "✨ REPO ✨", "https://github.com/MickeyxD/Ultron-User-Bot"),
+                            "✨ REPO ✨", "https://github.com/MickeyxD/UltronUserBot"),
                         custom.Button.url
                     (
                             "🔰 TUTORIAL 🔰", "https://t.me/UltronUserBot"
@@ -99,14 +99,14 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
     async def page(event):
         if not event.query.user_id == bot.uid:
             return await event.answer(
-                "Hoo gya aapka. Kabse tapar tapar dabae jaa rhe h. Khudka bna lo na agr chaiye to. © Dèvílẞø† ™",
+                "Hoo gya aapka. Kabse tapar tapar dabae jaa rhe h. Khudka bna lo na agr chaiye to. © Ul†røñẞø† ™",
                 cache_time=0,
                 alert=True,
             )
         page = int(event.data_match.group(1).decode("UTF-8"))
         veriler = button(page, CMD_HELP)
         await event.edit(
-            f"**Legenday AF** [Dèvílẞøt](https://t.me/UltronUserBot) __Working...__\n\n**Number of modules installed :** `{len(CMD_HELP)}`\n**page:** {page + 1}/{veriler[0]}",
+            f"**Legenday AF** [Ul†røñẞø†](https://t.me/Its_UltronBot) __Working...__\n\n**Number of modules installed :** `{len(CMD_HELP)}`\n**page:** {page + 1}/{veriler[0]}",
             buttons=veriler[1],
             link_preview=False,
         )
@@ -115,7 +115,7 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
     async def on_plug_in_callback_query_handler(event):
         if event.query.user_id == bot.uid:
             await event.edit(
-                "⚜️Dèvílẞø† Menu Provider Is now Closed⚜️\n\n      © Dèvílẞø† ™"
+                "⚜️Ul†røñẞø† Menu Provider Is now Closed⚜️\n\n      © Ul†røñẞø† ™"
             )
           
     @tgbot.on(
